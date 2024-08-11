@@ -1,0 +1,23 @@
+{
+  "name": "file-scrambler",
+  "version": "1.0.0",
+  "description": "Scrambles file-names with map",
+  "main": "file-scrambler.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "scrambler",
+    "unique",
+    "names",
+    "random"
+  ],
+  "author": "whirledsol",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "unique-names-generator": "^4.7.1"
+  }
+}
